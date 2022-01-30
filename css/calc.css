@@ -3,6 +3,11 @@
 }
 
 /* Styling the Calculator Interface*/
+.view_history {
+    position: relative;
+    left: 74%;
+}
+
 .calculatorApp {
     border: 1px solid palegreen;
     border-radius: 20px;
