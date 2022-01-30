@@ -44,3 +44,40 @@
     padding: 0 20px 20px 20px;
 
 }
+
+.equal_sign {
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 4;
+    grid-row-end: 7;
+    height: 100%;
+    background-color: #87D534;
+}
+
+.zero {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+button {
+    height: 50px;
+    background-color: #e0e0e0;
+    border-radius: 22px;
+    border: none;
+}
+
+.orange {
+    background-color: #FF9C33;
+}
+
+.red {
+    background-color: #FFD6D6;
+}
+
+.shadeRed {
+    background-color: #F47B7F;
+}
+
+.complex {
+    background-color: #D6D6FF;
+}
