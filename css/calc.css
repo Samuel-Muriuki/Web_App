@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Styling the Calculator Interface*/
+.calculatorApp {
+    border: 1px solid palegreen;
+    border-radius: 20px;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 450px;
+}
+
